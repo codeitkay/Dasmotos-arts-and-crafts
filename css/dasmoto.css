@@ -1,0 +1,49 @@
+* {
+    /* Reset all padding and margin in document to default*/
+    margin: 0;
+    padding: 0;
+    /* All font will be in Helvetica*/
+    font-family: "Helvetica",sans-serif;
+}
+.top-bar {
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    background-image: url(../images/pattern.webp);
+    margin: 85px 0px;
+} 
+
+.title-brushes {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+    margin: 30px 10px 30px 10px;
+}
+.graphics {
+    margin-left: 10px;
+}
+.title-frames {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+    margin: 30px 10px 30px 10px;
+}
+.title-paint {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+    margin: 30px 10px 30px 10px;
+}
+h3, p 
+{
+    margin: 15px 5px ;
+}
+
+.price {
+    font-weight: bold;
+    color: blue;
+}
